@@ -23,6 +23,7 @@
     "eslint-config-prettier": "^6.15.0",
     "eslint-loader": "^4.0.2",
     "eslint-plugin-nuxt": "^1.0.0",
-    "eslint-plugin-prettier": "^3.1.0"
+    "eslint-plugin-prettier": "^3.1.0",
+    "nuxt-purgecss": "^1.0.0"
   }
 }
