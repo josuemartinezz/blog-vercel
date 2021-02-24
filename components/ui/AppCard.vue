@@ -10,11 +10,12 @@
       <h2
         class="text-2xl font-semibold mt-5 cursor-pointer transition duration-300 hover:text-indigo-700"
       >
-        Meet the brand new Blogjos
+        Lorem ipsum dolor, sit amet consectetur adipisicing.
       </h2>
       <p class="text-lg mt-5 text-gray-700">
-        It all started with a dream of doing things well. 7 years have passed,
-        and Blogjos has grown into a more bold, technical, and mature company.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum quam rem
+        sunt quibusdam explicabo. Ducimus et autem quas fugiat harum quos
+        explicabo nulla ullam nostrum! Consequuntur nesciunt quia magni dolorem.
       </p>
     </div>
     <div class="mt-8">
