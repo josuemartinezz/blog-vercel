@@ -3,7 +3,7 @@
     class="rounded-lg overflow-hidden w-full h-full cursor-pointer group relative"
   >
     <div
-      class="w-full h-full bg-white opacity-0 absolute hover:opacity-25 transition duration-300"
+      class="w-full h-full bg-white opacity-0 absolute group-hover:opacity-25 transition duration-300"
     ></div>
     <img class="w-full h-full object-cover" :src="src" :alt="alt" />
   </div>

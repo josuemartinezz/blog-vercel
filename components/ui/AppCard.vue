@@ -1,5 +1,5 @@
 <template>
-  <section class="p-5 w-full">
+  <section class="p-5 w-full group">
     <AppImage style="height: 320px !important" :src="src" />
     <div class="font-semibold text-gray-800 flex items-center mt-6">
       Culture
@@ -8,7 +8,7 @@
     </div>
     <div>
       <h2
-        class="text-2xl font-semibold mt-5 cursor-pointer transition duration-300 hover:text-indigo-700"
+        class="text-2xl font-semibold mt-5 cursor-pointer transition duration-300 group-hover:text-indigo-700"
       >
         Lorem ipsum dolor, sit amet consectetur adipisicing.
       </h2>
